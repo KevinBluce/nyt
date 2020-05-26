@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://34.64.174.250:8086/apple/re-ny-261630-Runner.ipa</string>
+					<string>https://github.com/KevinBluce/nyt/raw/master/re-ny-261630-Runner.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://34.64.174.250:8086/apple/icon57.png</string>
+					<string>https://github.com/KevinBluce/nyt/raw/master/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://34.64.174.250:8086/apple/512x512.png</string>
+					<string>https://github.com/KevinBluce/nyt/raw/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
